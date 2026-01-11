@@ -1,5 +1,6 @@
 <p align="center">
   <img width="250" height="250" alt="image" src="https://github.com/user-attachments/assets/575804f5-64a1-4e5e-9cad-0a7560989658" />
+  <img width="720" height="236" alt="image" src="https://github.com/user-attachments/assets/b62d5806-8b4c-4e32-9de6-a824806e7716" />
 </p>
 
 # DISA STIGs for Windows 11
